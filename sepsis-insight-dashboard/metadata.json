@@ -1,0 +1,6 @@
+{
+  "name": "SepsisPulse: CNN ICU Analytics",
+  "description": "Clinical analytics dashboard for CNN-based early sepsis prediction in ICU patients based on PhysioNet CinC benchmark data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
